@@ -10,21 +10,9 @@ In order to develop or build the library you must have node and npm installed
 
 ### Installing ###
 
-1. Create the Directory for the files
-
-```
-mkdir pizza-bot
-```
-
-2. Navigate into the created directory
-
-```
-cd pizza-bot
-```
-
-3. Clone the repo or Unpack the files from the tarball located here: https://github.com/ChrisJenks9/pizza-bot/blob/master/pizza-bot.tar
-4. Navigate into the `pizza-bot` folder
-5. Install NPM packages
+1. Clone the repo or Unpack the files from the tarball located here: https://github.com/ChrisJenks9/pizza-bot/blob/master/pizza-bot.tar
+2. Navigate into the `pizza-bot` folder
+3. Install NPM packages
 
 ```
 npm install
