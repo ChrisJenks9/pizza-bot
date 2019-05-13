@@ -22,7 +22,7 @@ mkdir pizza-bot
 cd pizza-bot
 ```
 
-3. Unpack the files from the tarball located here: 
+3. Unpack the files from the tarball located here: https://github.com/ChrisJenks9/pizza-bot/blob/master/pizza-bot.tar
 4. Navigate into the `pizza-bot` folder
 5. Install NPM packages
 
@@ -42,10 +42,10 @@ npm test
 
 To run the app in terminal do the following:
 
-1. run node
+1. run start command
 
 ```
-npm run start
+npm start
 ```
 
 2. Require the module
