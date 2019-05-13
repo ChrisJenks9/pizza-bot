@@ -22,7 +22,7 @@ mkdir pizza-bot
 cd pizza-bot
 ```
 
-3. Unpack the files from the tarball located here: https://github.com/ChrisJenks9/pizza-bot/blob/master/pizza-bot.tar
+3. Clone the repo or Unpack the files from the tarball located here: https://github.com/ChrisJenks9/pizza-bot/blob/master/pizza-bot.tar
 4. Navigate into the `pizza-bot` folder
 5. Install NPM packages
 
